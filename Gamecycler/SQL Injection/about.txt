@@ -1,0 +1,8 @@
+The query I used is
+
+hacked!','1','1','1','1');#
+
+once submitted, it throws an error, but this is because it's reused in the code
+and doesn't fit correctly with a later query.
+it successfully posts a game named "hacked!" under the first user in the database,
+rather than the currently logged-in user.
